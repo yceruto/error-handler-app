@@ -48,5 +48,6 @@
         "post-update-cmd": [
             "@auto-scripts"
         ]
-    }
+    },
+    "minimum-stability": "dev"
 }
