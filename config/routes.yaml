@@ -1,3 +1,5 @@
-#index:
-#    path: /
-#    controller: App\Controller\DefaultController::index
+index:
+    path: /exception.{_format}
+    controller: App\Controller\Exception
+    defaults:
+        _format: html
