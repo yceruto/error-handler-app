@@ -824,12 +824,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/contracts.git",
-                "reference": "2ae87c20fb85e5f71af65adfe39cde9e09a72ed2"
+                "reference": "c96781d350bcf402f3ee578c4d9c7f0d2e1e4605"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/contracts/zipball/2ae87c20fb85e5f71af65adfe39cde9e09a72ed2",
-                "reference": "2ae87c20fb85e5f71af65adfe39cde9e09a72ed2",
+                "url": "https://api.github.com/repos/symfony/contracts/zipball/c96781d350bcf402f3ee578c4d9c7f0d2e1e4605",
+                "reference": "c96781d350bcf402f3ee578c4d9c7f0d2e1e4605",
                 "shasum": ""
             },
             "require": {
@@ -887,7 +887,7 @@
                 "interoperability",
                 "standards"
             ],
-            "time": "2019-04-07T08:26:05+00:00"
+            "time": "2019-04-15T17:24:46+00:00"
         },
         {
             "name": "symfony/polyfill-intl-icu",
@@ -1187,12 +1187,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/yceruto/symfony.git",
-                "reference": "70e757e8e24415f0183b8d6c8bcb6b84cd000aef"
+                "reference": "6b098f317deedf87558b72b0dcb70a196c7b4753"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yceruto/symfony/zipball/70e757e8e24415f0183b8d6c8bcb6b84cd000aef",
-                "reference": "70e757e8e24415f0183b8d6c8bcb6b84cd000aef",
+                "url": "https://api.github.com/repos/yceruto/symfony/zipball/6b098f317deedf87558b72b0dcb70a196c7b4753",
+                "reference": "6b098f317deedf87558b72b0dcb70a196c7b4753",
                 "shasum": ""
             },
             "require": {
@@ -1346,7 +1346,7 @@
             "support": {
                 "source": "https://github.com/yceruto/symfony/tree/error_exception_component"
             },
-            "time": "2019-04-14T05:27:53+00:00"
+            "time": "2019-04-16T18:17:36+00:00"
         },
         {
             "name": "twig/twig",
@@ -1354,12 +1354,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "5e3747f769d2ebadde3f4e699fbffe784f67bd67"
+                "reference": "2973358b1573a21ef6f3bbae6ff963bd2f653359"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/5e3747f769d2ebadde3f4e699fbffe784f67bd67",
-                "reference": "5e3747f769d2ebadde3f4e699fbffe784f67bd67",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/2973358b1573a21ef6f3bbae6ff963bd2f653359",
+                "reference": "2973358b1573a21ef6f3bbae6ff963bd2f653359",
                 "shasum": ""
             },
             "require": {
@@ -1413,7 +1413,7 @@
             "keywords": [
                 "templating"
             ],
-            "time": "2019-04-12T10:40:40+00:00"
+            "time": "2019-04-16T19:17:07+00:00"
         }
     ],
     "packages-dev": [],
