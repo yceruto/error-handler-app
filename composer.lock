@@ -1187,12 +1187,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/yceruto/symfony.git",
-                "reference": "6b098f317deedf87558b72b0dcb70a196c7b4753"
+                "reference": "451fa3c72bd297b70267b37d56b4f60ecad7e97e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yceruto/symfony/zipball/6b098f317deedf87558b72b0dcb70a196c7b4753",
-                "reference": "6b098f317deedf87558b72b0dcb70a196c7b4753",
+                "url": "https://api.github.com/repos/yceruto/symfony/zipball/451fa3c72bd297b70267b37d56b4f60ecad7e97e",
+                "reference": "451fa3c72bd297b70267b37d56b4f60ecad7e97e",
                 "shasum": ""
             },
             "require": {
@@ -1346,7 +1346,7 @@
             "support": {
                 "source": "https://github.com/yceruto/symfony/tree/error_exception_component"
             },
-            "time": "2019-04-16T18:17:36+00:00"
+            "time": "2019-04-16T21:27:25+00:00"
         },
         {
             "name": "twig/twig",
