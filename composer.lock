@@ -1187,12 +1187,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/yceruto/symfony.git",
-                "reference": "451fa3c72bd297b70267b37d56b4f60ecad7e97e"
+                "reference": "1e387a4aed8c6ff2581706d6fce799191b3679cc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yceruto/symfony/zipball/451fa3c72bd297b70267b37d56b4f60ecad7e97e",
-                "reference": "451fa3c72bd297b70267b37d56b4f60ecad7e97e",
+                "url": "https://api.github.com/repos/yceruto/symfony/zipball/1e387a4aed8c6ff2581706d6fce799191b3679cc",
+                "reference": "1e387a4aed8c6ff2581706d6fce799191b3679cc",
                 "shasum": ""
             },
             "require": {
@@ -1346,7 +1346,7 @@
             "support": {
                 "source": "https://github.com/yceruto/symfony/tree/error_exception_component"
             },
-            "time": "2019-04-16T21:27:25+00:00"
+            "time": "2019-04-17T22:35:43+00:00"
         },
         {
             "name": "twig/twig",
@@ -1354,12 +1354,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "2973358b1573a21ef6f3bbae6ff963bd2f653359"
+                "reference": "bc23e516ce0c54021ba5111c233a6a7ef42ecfc0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/2973358b1573a21ef6f3bbae6ff963bd2f653359",
-                "reference": "2973358b1573a21ef6f3bbae6ff963bd2f653359",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/bc23e516ce0c54021ba5111c233a6a7ef42ecfc0",
+                "reference": "bc23e516ce0c54021ba5111c233a6a7ef42ecfc0",
                 "shasum": ""
             },
             "require": {
@@ -1413,7 +1413,7 @@
             "keywords": [
                 "templating"
             ],
-            "time": "2019-04-16T19:17:07+00:00"
+            "time": "2019-04-17T07:12:40+00:00"
         }
     ],
     "packages-dev": [],
