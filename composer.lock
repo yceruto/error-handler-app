@@ -163,12 +163,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/collections.git",
-                "reference": "fcf1b009acbf4aca5e48c1cc311bc4444f88bdf3"
+                "reference": "59113bb238be3ea0e3a3238aa484834780947492"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/collections/zipball/fcf1b009acbf4aca5e48c1cc311bc4444f88bdf3",
-                "reference": "fcf1b009acbf4aca5e48c1cc311bc4444f88bdf3",
+                "url": "https://api.github.com/repos/doctrine/collections/zipball/59113bb238be3ea0e3a3238aa484834780947492",
+                "reference": "59113bb238be3ea0e3a3238aa484834780947492",
                 "shasum": ""
             },
             "require": {
@@ -226,7 +226,7 @@
                 "iterators",
                 "php"
             ],
-            "time": "2019-03-26T22:04:41+00:00"
+            "time": "2019-04-29T19:56:15+00:00"
         },
         {
             "name": "doctrine/event-manager",
@@ -370,12 +370,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/persistence.git",
-                "reference": "dfa67e7cad3651aedb2525a44dee1b1e9eb9a50d"
+                "reference": "43526ae63312942e5316100bb3ed589ba1aba491"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/persistence/zipball/dfa67e7cad3651aedb2525a44dee1b1e9eb9a50d",
-                "reference": "dfa67e7cad3651aedb2525a44dee1b1e9eb9a50d",
+                "url": "https://api.github.com/repos/doctrine/persistence/zipball/43526ae63312942e5316100bb3ed589ba1aba491",
+                "reference": "43526ae63312942e5316100bb3ed589ba1aba491",
                 "shasum": ""
             },
             "require": {
@@ -444,7 +444,7 @@
                 "orm",
                 "persistence"
             ],
-            "time": "2019-04-10T12:53:06+00:00"
+            "time": "2019-04-23T12:39:21+00:00"
         },
         {
             "name": "doctrine/reflection",
@@ -824,12 +824,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/contracts.git",
-                "reference": "c96781d350bcf402f3ee578c4d9c7f0d2e1e4605"
+                "reference": "d3636025e8253c6144358ec0a62773cae588395b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/contracts/zipball/c96781d350bcf402f3ee578c4d9c7f0d2e1e4605",
-                "reference": "c96781d350bcf402f3ee578c4d9c7f0d2e1e4605",
+                "url": "https://api.github.com/repos/symfony/contracts/zipball/d3636025e8253c6144358ec0a62773cae588395b",
+                "reference": "d3636025e8253c6144358ec0a62773cae588395b",
                 "shasum": ""
             },
             "require": {
@@ -887,7 +887,7 @@
                 "interoperability",
                 "standards"
             ],
-            "time": "2019-04-15T17:24:46+00:00"
+            "time": "2019-04-27T14:29:50+00:00"
         },
         {
             "name": "symfony/polyfill-intl-icu",
@@ -1187,12 +1187,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/yceruto/symfony.git",
-                "reference": "1e387a4aed8c6ff2581706d6fce799191b3679cc"
+                "reference": "431cd99cdce1c70f26d6d966e0ac458a682643c6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yceruto/symfony/zipball/1e387a4aed8c6ff2581706d6fce799191b3679cc",
-                "reference": "1e387a4aed8c6ff2581706d6fce799191b3679cc",
+                "url": "https://api.github.com/repos/yceruto/symfony/zipball/431cd99cdce1c70f26d6d966e0ac458a682643c6",
+                "reference": "431cd99cdce1c70f26d6d966e0ac458a682643c6",
                 "shasum": ""
             },
             "require": {
@@ -1214,7 +1214,7 @@
                 "symfony/polyfill-mbstring": "~1.0",
                 "symfony/polyfill-php72": "~1.5",
                 "symfony/polyfill-php73": "^1.11",
-                "twig/twig": "^1.35|^2.4.4"
+                "twig/twig": "^1.40|^2.9"
             },
             "conflict": {
                 "masterminds/html5": "<2.6",
@@ -1346,7 +1346,7 @@
             "support": {
                 "source": "https://github.com/yceruto/symfony/tree/error_exception_component"
             },
-            "time": "2019-04-17T22:35:43+00:00"
+            "time": "2019-04-30T17:12:26+00:00"
         },
         {
             "name": "twig/twig",
@@ -1354,12 +1354,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "bc23e516ce0c54021ba5111c233a6a7ef42ecfc0"
+                "reference": "804cf65ec02fb63dabb75b8fbe0fb30997369ba5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/bc23e516ce0c54021ba5111c233a6a7ef42ecfc0",
-                "reference": "bc23e516ce0c54021ba5111c233a6a7ef42ecfc0",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/804cf65ec02fb63dabb75b8fbe0fb30997369ba5",
+                "reference": "804cf65ec02fb63dabb75b8fbe0fb30997369ba5",
                 "shasum": ""
             },
             "require": {
@@ -1375,7 +1375,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.8-dev"
+                    "dev-master": "2.9-dev"
                 }
             },
             "autoload": {
@@ -1413,7 +1413,7 @@
             "keywords": [
                 "templating"
             ],
-            "time": "2019-04-17T07:12:40+00:00"
+            "time": "2019-04-30T13:01:59+00:00"
         }
     ],
     "packages-dev": [],
