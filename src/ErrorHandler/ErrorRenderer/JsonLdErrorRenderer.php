@@ -40,6 +40,6 @@ class JsonLdErrorRenderer implements ErrorRendererInterface
             $content['@context']['exceptions'] = $exception->toArray();
         }
 
-        return (string) json_encode($content);
+        return json_encode($content);
     }
 }
